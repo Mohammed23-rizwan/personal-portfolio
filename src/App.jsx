@@ -7,8 +7,8 @@ const App = () => {
       {/* <Home />
       <Exprecience />
       <GeneralData/>
-      <PortfolioLink/>
-      <Details/> */}
+      <PortfolioLink/> */}
+      <Details/>
     </div>
   );
 };
