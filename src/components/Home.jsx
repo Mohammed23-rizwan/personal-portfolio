@@ -5,7 +5,7 @@ import { useRef } from "react";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
-const Home = () => {
+const Home1 = () => {
 
   const dpref = useRef()
 
@@ -29,4 +29,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Home1;
