@@ -1,4 +1,3 @@
-import Home from "./Components/Home";
 import Exprecience from "./Components/Exprecience";
 import GeneralData from "./components/GeneralData";
 import PortfolioLink from "./components/PortfolioLink";
