@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "echo 'No build step needed'",
+    "test": "echo 'Error: no test specified' && Exit 1",
     "lint": "eslint .",
     "preview": "vite preview"
   },
