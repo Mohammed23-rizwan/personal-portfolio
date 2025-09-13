@@ -11,18 +11,18 @@ const Details = () => {
       <ul className="text-2xl flex flex-col sm:flex-row gap-3">
         <li className="p-3 rounded-[14px] cursor-pointer bg-bgprimary text-txtprimaryalt flex justify-center items-center gap-2">
           <FaPerson className="text-primary" />
-          <p className="sm:text-[16px] text-[10px]">27 years</p>
+          <p className="sm:text-[16px] text-[12px]">27 years</p>
         </li>
         <li className="p-3 rounded-[14px] cursor-pointer bg-bgprimary text-txtprimaryalt flex justify-center items-center gap-2">
           <IoMail className="text-primary" />
-          <p className="sm:text-[16px] text-[10px]">rizwanedu03@gmail.com</p>
+          <p className="sm:text-[16px] text-[12px]">rizwanedu03@gmail.com</p>
         </li>
         <li className="p-3 rounded-[14px] cursor-pointer bg-bgprimary text-txtprimaryalt flex justify-center items-center gap-2">
           <FaPhoneSquareAlt className="text-primary" />
-          <p className="sm:text-[16px] text-[10px]">+91-6379481218</p>
+          <p className="sm:text-[16px] text-[12px]">+91-6379481218</p>
         </li>
         <li className="p-3 rounded-[14px] cursor-pointer bg-bgprimary text-txtprimaryalt flex justify-center items-center gap-2">
-          <img src={ind} alt="" className="w-4 h-4"/> <p className="sm:text-[16px] text-[10px]">India</p>
+          <img src={ind} alt="" className="w-4 h-4"/> <p className="sm:text-[16px] text-[12px]">India</p>
         </li>
       </ul>
     </div>

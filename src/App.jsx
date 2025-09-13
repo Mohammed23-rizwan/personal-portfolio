@@ -1,5 +1,5 @@
 // import React from "react";
-import Home from "./Components/Home";
+import Home from "./Components/Home.jsx";
 import GeneralData from "./components/GeneralData";
 import PortfolioLink from "./components/PortfolioLink";
 import Details from "./components/Details";
