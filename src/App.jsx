@@ -1,9 +1,4 @@
-import React from "react";
-import Home from "./Components/Home";
-import Exprecience from "./Components/Exprecience";
-import GeneralData from "./components/GeneralData";
-import PortfolioLink from "./components/PortfolioLink";
-import Details from "./components/Details";
+
 
 const App = () => {
   return (
