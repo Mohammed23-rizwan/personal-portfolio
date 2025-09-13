@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react'
 
-const Exprecience = () => {
+const Experience = () => {
   return (
     <div className="md:h-[350px] grid md:grid-cols-2 grid-cols-1 gap-10">
       <div className="bg-primary rounded-[14px] p-10">
@@ -64,7 +64,7 @@ const Exprecience = () => {
         </ol>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Exprecience;
+export default Experience
